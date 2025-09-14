@@ -1,1 +1,2 @@
-print("Welcome to the MAIN branch (conflict demo)")
+print("Welcome to the DEMO branch")
+print("User: Marina")

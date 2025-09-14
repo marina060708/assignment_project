@@ -1,2 +1,1 @@
-print("Welcome to Git Assignment")
-print("User: Marina")
+print("Welcome to the MAIN branch")

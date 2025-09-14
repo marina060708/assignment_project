@@ -1,3 +1,1 @@
-print("Hello World")
-print("Welcome to the MAIN branch")
-print("User: Marina")
+print("Welcome to the MAIN branch (conflict demo)")
